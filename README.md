@@ -25,3 +25,4 @@
 
 ## Table of Contents
 * [Chapter 01. Setting Up Your Go Environment](./Chapter%2001.%20Setting%20Up%20Your%20Go%20Environment/README.md)
+* [Chapter 02. Predeclared Types and Declarations](./Chapter%2002.%20Predeclared%20Types%20and%20Declarations/README.md)
